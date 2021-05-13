@@ -1,0 +1,15 @@
+Package: tjdepot
+Title: Analysis Depot for TJ Palanca
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Troy James",
+           family = "Palanca",
+           role = c("aut", "cre"),
+           email = "mail@tjpalanca.com",
+           comment = c(ORCID = "0000-0002-0610-9213"))
+Description: Analysis depot for TJ Palanca
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
